@@ -21,6 +21,7 @@ repositories {
 }
 
 dependencies {
+    compile 'org.springframework.shell:spring-shell-starter:2.0.0.RELEASE'
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:28.0-jre'
 
